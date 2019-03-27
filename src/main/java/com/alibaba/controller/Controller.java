@@ -11,6 +11,6 @@ public class Controller {
 	@ResponseBody
 	@RequestMapping("test1")
 	public String test1() {
-		return "123456";
+		return "123456_dev";
 	}
 }
